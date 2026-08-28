@@ -1,6 +1,7 @@
 ;;; modeless-im.el --- Modeless (non-toggling) input method commands  -*- lexical-binding: t; -*-
 
 ;; Author: Anton Kovalenko <anton@sw4me.com>
+;; Assisted-by: Claude Code:claude-fable-5
 ;; Maintainer: Anton Kovalenko <anton@sw4me.com>
 ;; URL: https://github.com/akovalenko/modeless-im
 ;; Version: 1.0
